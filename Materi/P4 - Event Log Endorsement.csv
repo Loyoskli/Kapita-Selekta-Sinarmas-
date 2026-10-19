@@ -1,0 +1,73 @@
+﻿Kasus;Jenis endorsement;Aktivitas;Peran;Mulai;Selesai
+END-01;Ganti nomor polisi;Menerima permintaan;Marketing;Sen 07/09/2026 09.00;Sen 07/09/2026 09.10
+END-01;Ganti nomor polisi;Memeriksa kelengkapan dokumen;Marketing;Sen 07/09/2026 12.10;Sen 07/09/2026 12.25
+END-01;Ganti nomor polisi;Menerbitkan endorsement;Policy admin;Sen 07/09/2026 16.25;Sen 07/09/2026 16.45
+END-01;Ganti nomor polisi;Mengirim dokumen ke nasabah;Marketing;Sel 08/09/2026 08.45;Sel 08/09/2026 08.55
+END-02;Naik nilai pertanggungan;Menerima permintaan;Marketing;Sen 07/09/2026 10.30;Sen 07/09/2026 10.41
+END-02;Naik nilai pertanggungan;Memeriksa kelengkapan dokumen;Marketing;Sen 07/09/2026 14.22;Sen 07/09/2026 14.40
+END-02;Naik nilai pertanggungan;Menghitung premi tambahan;Underwriting;Sel 08/09/2026 11.47;Sel 08/09/2026 12.21
+END-02;Naik nilai pertanggungan;Menyetujui endorsement;Underwriter senior;Sel 08/09/2026 14.10;Sel 08/09/2026 14.21
+END-02;Naik nilai pertanggungan;Menerbitkan endorsement;Policy admin;Rab 09/09/2026 10.14;Rab 09/09/2026 10.37
+END-02;Naik nilai pertanggungan;Mengirim dokumen ke nasabah;Marketing;Rab 09/09/2026 12.06;Rab 09/09/2026 12.16
+END-03;Ganti alamat;Menerima permintaan;Marketing;Sel 08/09/2026 08.30;Sel 08/09/2026 08.42
+END-03;Ganti alamat;Memeriksa kelengkapan dokumen;Marketing;Sel 08/09/2026 13.04;Sel 08/09/2026 13.25
+END-03;Ganti alamat;Meminta dokumen tambahan;Marketing;Sel 08/09/2026 13.49;Sel 08/09/2026 13.59
+END-03;Ganti alamat;Memeriksa kelengkapan dokumen;Marketing;Jum 11/09/2026 10.13;Jum 11/09/2026 10.34
+END-03;Ganti alamat;Menerbitkan endorsement;Policy admin;Jum 11/09/2026 16.20;Jum 11/09/2026 16.46
+END-03;Ganti alamat;Mengirim dokumen ke nasabah;Marketing;Sen 14/09/2026 09.44;Sen 14/09/2026 09.54
+END-04;Naik nilai pertanggungan;Menerima permintaan;Marketing;Sel 08/09/2026 13.00;Sel 08/09/2026 13.13
+END-04;Naik nilai pertanggungan;Memeriksa kelengkapan dokumen;Marketing;Rab 09/09/2026 09.16;Rab 09/09/2026 09.40
+END-04;Naik nilai pertanggungan;Meminta dokumen tambahan;Marketing;Rab 09/09/2026 09.50;Rab 09/09/2026 10.00
+END-04;Naik nilai pertanggungan;Memeriksa kelengkapan dokumen;Marketing;Sen 14/09/2026 08.51;Sen 14/09/2026 09.15
+END-04;Naik nilai pertanggungan;Menghitung premi tambahan;Underwriting;Sel 15/09/2026 08.36;Sel 15/09/2026 09.18
+END-04;Naik nilai pertanggungan;Menyetujui endorsement;Underwriter senior;Sel 15/09/2026 14.00;Sel 15/09/2026 14.13
+END-04;Naik nilai pertanggungan;Menerbitkan endorsement;Policy admin;Rab 16/09/2026 11.52;Rab 16/09/2026 12.21
+END-04;Naik nilai pertanggungan;Mengirim dokumen ke nasabah;Marketing;Rab 16/09/2026 14.48;Rab 16/09/2026 14.58
+END-05;Tambah perluasan jaminan;Menerima permintaan;Marketing;Rab 09/09/2026 09.30;Rab 09/09/2026 09.44
+END-05;Tambah perluasan jaminan;Memeriksa kelengkapan dokumen;Marketing;Rab 09/09/2026 15.28;Rab 09/09/2026 15.44
+END-05;Tambah perluasan jaminan;Menghitung premi tambahan;Underwriting;Kam 10/09/2026 16.12;Kam 10/09/2026 16.42
+END-05;Tambah perluasan jaminan;Menyetujui endorsement;Underwriter senior;Sel 15/09/2026 14.10;Sel 15/09/2026 14.24
+END-05;Tambah perluasan jaminan;Menerbitkan endorsement;Policy admin;Rab 16/09/2026 12.56;Rab 16/09/2026 13.17
+END-05;Tambah perluasan jaminan;Mengirim dokumen ke nasabah;Marketing;Rab 16/09/2026 16.13;Rab 16/09/2026 16.23
+END-06;Ganti nomor polisi;Menerima permintaan;Marketing;Rab 09/09/2026 14.00;Rab 09/09/2026 14.15
+END-06;Ganti nomor polisi;Memeriksa kelengkapan dokumen;Marketing;Kam 10/09/2026 08.39;Kam 10/09/2026 08.58
+END-06;Ganti nomor polisi;Menerbitkan endorsement;Policy admin;Kam 10/09/2026 13.22;Kam 10/09/2026 13.46
+END-06;Ganti nomor polisi;Mengirim dokumen ke nasabah;Marketing;Kam 10/09/2026 15.10;Kam 10/09/2026 15.20
+END-06;Ganti nomor polisi;Mengoreksi endorsement;Policy admin;Sel 15/09/2026 08.20;Sel 15/09/2026 08.50
+END-06;Ganti nomor polisi;Mengirim dokumen ke nasabah;Marketing;Sel 15/09/2026 09.50;Sel 15/09/2026 10.00
+END-07;Naik nilai pertanggungan;Menerima permintaan;Marketing;Kam 10/09/2026 10.00;Kam 10/09/2026 10.10
+END-07;Naik nilai pertanggungan;Memeriksa kelengkapan dokumen;Marketing;Kam 10/09/2026 14.15;Kam 10/09/2026 14.37
+END-07;Naik nilai pertanggungan;Menghitung premi tambahan;Underwriting;Jum 11/09/2026 12.18;Jum 11/09/2026 12.56
+END-07;Naik nilai pertanggungan;Menyetujui endorsement;Underwriter senior;Sel 15/09/2026 14.00;Sel 15/09/2026 14.10
+END-07;Naik nilai pertanggungan;Menerbitkan endorsement;Policy admin;Rab 16/09/2026 10.27;Rab 16/09/2026 10.54
+END-07;Naik nilai pertanggungan;Mengirim dokumen ke nasabah;Marketing;Rab 16/09/2026 12.47;Rab 16/09/2026 12.57
+END-08;Ganti alamat;Menerima permintaan;Marketing;Jum 11/09/2026 09.00;Jum 11/09/2026 09.11
+END-08;Ganti alamat;Memeriksa kelengkapan dokumen;Marketing;Jum 11/09/2026 13.57;Jum 11/09/2026 14.22
+END-08;Ganti alamat;Menerbitkan endorsement;Policy admin;Sen 14/09/2026 11.32;Sen 14/09/2026 12.02
+END-08;Ganti alamat;Mengirim dokumen ke nasabah;Marketing;Sen 14/09/2026 14.24;Sen 14/09/2026 14.34
+END-09;Tambah perluasan jaminan;Menerima permintaan;Marketing;Sen 14/09/2026 11.00;Sen 14/09/2026 11.12
+END-09;Tambah perluasan jaminan;Memeriksa kelengkapan dokumen;Marketing;Sen 14/09/2026 16.39;Sen 14/09/2026 16.56
+END-09;Tambah perluasan jaminan;Meminta dokumen tambahan;Marketing;Sel 15/09/2026 08.20;Sel 15/09/2026 08.30
+END-09;Tambah perluasan jaminan;Memeriksa kelengkapan dokumen;Marketing;Kam 17/09/2026 14.25;Kam 17/09/2026 14.42
+END-09;Tambah perluasan jaminan;Menghitung premi tambahan;Underwriting;Jum 18/09/2026 14.37;Jum 18/09/2026 15.07
+END-09;Tambah perluasan jaminan;Menyetujui endorsement;Underwriter senior;Sel 22/09/2026 14.20;Sel 22/09/2026 14.32
+END-09;Tambah perluasan jaminan;Menerbitkan endorsement;Policy admin;Rab 23/09/2026 12.35;Rab 23/09/2026 12.57
+END-09;Tambah perluasan jaminan;Mengirim dokumen ke nasabah;Marketing;Rab 23/09/2026 15.48;Rab 23/09/2026 15.58
+END-10;Naik nilai pertanggungan;Menerima permintaan;Marketing;Sel 15/09/2026 15.00;Sel 15/09/2026 15.13
+END-10;Naik nilai pertanggungan;Memeriksa kelengkapan dokumen;Marketing;Rab 16/09/2026 09.20;Rab 16/09/2026 09.40
+END-10;Naik nilai pertanggungan;Menghitung premi tambahan;Underwriting;Rab 16/09/2026 14.41;Rab 16/09/2026 15.15
+END-10;Naik nilai pertanggungan;Menyetujui endorsement;Underwriter senior;Kam 17/09/2026 14.00;Kam 17/09/2026 14.13
+END-10;Naik nilai pertanggungan;Menerbitkan endorsement;Policy admin;Jum 18/09/2026 13.09;Jum 18/09/2026 13.34
+END-10;Naik nilai pertanggungan;Mengirim dokumen ke nasabah;Marketing;Jum 18/09/2026 14.53;Jum 18/09/2026 15.03
+END-11;Ganti nomor polisi;Menerima permintaan;Marketing;Rab 16/09/2026 08.30;Rab 16/09/2026 08.44
+END-11;Ganti nomor polisi;Memeriksa kelengkapan dokumen;Marketing;Rab 16/09/2026 12.32;Rab 16/09/2026 12.55
+END-11;Ganti nomor polisi;Meminta dokumen tambahan;Marketing;Rab 16/09/2026 13.12;Rab 16/09/2026 13.22
+END-11;Ganti nomor polisi;Memeriksa kelengkapan dokumen;Marketing;Sen 21/09/2026 15.31;Sen 21/09/2026 15.54
+END-11;Ganti nomor polisi;Menerbitkan endorsement;Policy admin;Sel 22/09/2026 11.42;Sel 22/09/2026 12.10
+END-11;Ganti nomor polisi;Mengirim dokumen ke nasabah;Marketing;Sel 22/09/2026 13.58;Sel 22/09/2026 14.08
+END-12;Naik nilai pertanggungan;Menerima permintaan;Marketing;Kam 17/09/2026 09.30;Kam 17/09/2026 09.45
+END-12;Naik nilai pertanggungan;Memeriksa kelengkapan dokumen;Marketing;Kam 17/09/2026 14.14;Kam 17/09/2026 14.29
+END-12;Naik nilai pertanggungan;Menghitung premi tambahan;Underwriting;Jum 18/09/2026 12.44;Jum 18/09/2026 13.26
+END-12;Naik nilai pertanggungan;Menyetujui endorsement;Underwriter senior;Sel 22/09/2026 14.20;Sel 22/09/2026 14.35
+END-12;Naik nilai pertanggungan;Menerbitkan endorsement;Policy admin;Rab 23/09/2026 11.16;Rab 23/09/2026 11.36
+END-12;Naik nilai pertanggungan;Mengirim dokumen ke nasabah;Marketing;Rab 23/09/2026 13.53;Rab 23/09/2026 14.03
